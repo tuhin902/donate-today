@@ -21,6 +21,7 @@ body {
 }
 
 .padding-p {
+    font-size: 15px;
     padding-top: 20px;
     padding-bottom: 50px;
     padding-left: 20%;
@@ -42,4 +43,31 @@ body {
     padding: 15px 20px;
     border-radius: 10px;
 
+}
+
+.middle-text {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.middle-text h1 {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.flexible-content {
+    display: flex;
+    padding-left: 25%;
+    padding-bottom: 30px;
+}
+
+.flexible-content h1 {
+    background-color: whitesmoke;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px 20px;
+    border-radius: 5px;
 }
