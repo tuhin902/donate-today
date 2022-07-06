@@ -169,11 +169,86 @@ hr {
 
 .donate-p1 h1 {
     font-size: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.donate-p2 h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
 }
 
 .donate-p1 {
-    padding-top: 50px;
-    padding-left: 30px;
-    padding-right: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.donate-p1 p {
+    margin-bottom: 20px;
+}
+
+.donate-p2 {
+    margin-right: 5%;
+
+}
+
+.donate-p2 p {
+    margin-bottom: 20px;
+}
+
+.updates {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.updates-h1 {
+    font-size: 40px;
+}
+
+.email {
+    background-color: bisque;
+    margin-bottom: 100px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+#email-width {
+    width: 300px;
+    height: 30px;
+}
+
+.sub-button {
+    width: 100px;
+    height: 35px;
+    border: none;
+    color: white;
+    background-color: #FF5959;
+}
+
+.footer {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 70px;
+
+}
+
+.footer h1 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    color: #FF5959;
+    margin-top: 50px;
+    padding-top: 10px;
+
+}
+
+.footer-p {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
 }
