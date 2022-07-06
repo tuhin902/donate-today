@@ -33,7 +33,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 100px;
-    padding-bottom: 150px;
+    padding-bottom: 130px;
 }
 
 .link-button {
@@ -41,7 +41,7 @@ body {
     background-image: linear-gradient(red, orange);
     color: white;
     padding: 15px 20px;
-    border-radius: 10px;
+    border-radius: 25px;
 
 }
 
@@ -60,14 +60,120 @@ body {
 
 .flexible-content {
     display: flex;
-    padding-left: 25%;
-    padding-bottom: 30px;
 }
 
 .flexible-content h1 {
     background-color: whitesmoke;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 20px 20px;
+    padding: 30px 20px;
     border-radius: 5px;
+}
+
+#p-left {
+    margin-left: 25%;
+    padding-bottom: 30px;
+}
+
+#tomato-color {
+    background-color: tomato;
+
+
+}
+
+
+.ammount {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+hr {
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.input-button {
+    font-size: 20px;
+    border: none;
+    padding-bottom: 5px;
+}
+
+
+.donation-plan {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+#dplan-p {
+    padding-top: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.half-width {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#background-div1 {
+    background-color: skyblue;
+    margin-left: 10%;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+#background-div1 h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#background-div2 {
+    background-color: bisque;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+#background-div2 h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#background-div3 {
+    background-color: aquamarine;
+    margin-right: 10%;
+    padding: 20px 20px;
+    border-radius: 10px;
+
+}
+
+#background-div3 h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.donating-food {
+    display: flex;
+    margin: 70px;
+}
+
+.donating-food img {
+    width: 90%;
+    border-radius: 10px;
+
+}
+
+.donate-p1 h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.donate-p1 {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 50px;
 }
